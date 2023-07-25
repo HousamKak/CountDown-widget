@@ -1,0 +1,2 @@
+# CountDown-widget
+This is a countdown app for PC to help me focus on working better and manage time allocations effectively during work. I only specify how much time I want to spend and the countdown starts. Unlike using my phone's timer, the whole idea behind this app is to have a big timer in front of my face, clearly indicating how much time I have left to be spending on each task. I wanted a prominent floating timer in front of me, separate from a browser's tab or my phone.
