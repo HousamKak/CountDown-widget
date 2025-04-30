@@ -25,7 +25,7 @@ This is a countdown app for PC to help manage time allocations effectively durin
 You can find the `.exe` file in the `dist` directory, or download the widget directly from [here](https://github.com/HousamKak/CountDown-widget/raw/main/dist/my_countdown.exe).
 
 ## Screenshot
-![image](https://github.com/HousamKak/CountDown-widget/assets/71034018/d2e09309-a4be-40ea-a4d8-12d65744298f)
+![App Screenshot](assets/image.png)
 
 ## Notes
 - Ensure you have Python installed if you want to run the script directly.
