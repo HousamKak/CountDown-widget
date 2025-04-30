@@ -1,0 +1,10 @@
+# Ignoring additional build files
+build/
+*.toc
+*.zip
+*.manifest
+*.pkg
+*.pyz
+*.html
+*.txt
+localpycs/
