@@ -3,19 +3,25 @@
 This is a countdown app for PC to help manage time allocations effectively during work. Specify the amount of time you want to spend, and the countdown starts. Unlike using a phone's timer, this app provides a large, prominent timer in front of you, clearly indicating the remaining time for each task. It is designed to be a floating timer, separate from a browser tab or phone.
 
 ## Features
-- Choose between hours, minutes, or seconds for the countdown.
-- Visually appealing and responsive UI.
-- Prevents multiple concurrent countdowns.
-- Restart the timer at any moment.
-- Displays a "TIME'S UP!" message when the countdown ends.
+- Choose between hours, minutes, or seconds for the countdown.  
+- Enter a **Session Name** for each timer—you can track multiple sessions.  
+- Displays **Active** and **Paused** time analytics in real time.  
+- **History** view: list of past sessions with start time, total length, active vs. paused breakdown.  
+- Clear history with one click.  
+- Visually appealing and responsive UI.  
+- Prevents multiple concurrent countdowns.  
+- Restart the timer at any moment.  
+- Displays a “TIME’S UP!” message when the countdown ends.
 
 ## How to Use
-1. Enter the desired time in the input field.
-2. Select the time unit (hours, minutes, or seconds) from the dropdown menu.
-3. Press the "START" button to begin the countdown.
-4. The "START" button changes to "RESTART" to allow restarting the timer at any time.
-5. Use the "PAUSE" button to pause/resume the countdown.
-6. Press the "RESET" button to reset the timer and start fresh.
+1. Enter the desired time in the input field.  
+2. Select the time unit (hours, minutes, or seconds) from the dropdown menu.  
+3. Optionally enter a **Session Name** to label this countdown.  
+4. Press **START** to begin. The button will switch to **RESTART** to let you restart at any time.  
+5. Use **PAUSE** to pause and **RESUME** to continue.  
+6. View live **Active** and **Paused** timers below.  
+7. Click **History** to toggle a list of past sessions; click **Clear History** to remove them.  
+8. Press **RESET** to stop and clear the current session.
 
 ## Code Structure
 - The main code is in `my_countdown.py`.
