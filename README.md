@@ -29,7 +29,7 @@ This is a countdown app for PC to help manage time allocations effectively durin
 
 
 ## Screenshot
-![App Screenshot](assets/image.png)
+![App Screenshot](https://github.com/HousamKak/CountDown-widget/blob/main/assets/image.png)
 
 ## Notes
 - Ensure you have Python installed if you want to run the script directly.
