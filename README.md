@@ -37,7 +37,7 @@ This is a countdown app for PC to help manage time allocations effectively durin
 
 ## Installation and Build Instructions
 
-You can find the `.exe` file in the `dist` directory, or download the widget directly from [here](https://github.com/HousamKak/CountDown-widget/raw/main/dist/my_countdown.exe).
+You can find the `.exe` file in the `dist` directory, or download the widget directly from [here](https://github.com/HousamKak/CountDown-widget/dist/my_countdown.exe).
 
 To install the required dependencies and build the executable for the Countdown Widget, follow these steps:
 
